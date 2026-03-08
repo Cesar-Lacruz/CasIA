@@ -6,7 +6,7 @@ This repository contains the working paper and supplementary materials for the *
 
 **Author:** César Lacruz  
 **Latest version:** v12 (March 2026)  
-**Paper:** [CasIA_Paper_v12_2026.pdf](./CasIA_Paper_v12_2026.pdf)
+**Paper:** [CasIA_Paper_v12_2026.pdf](./CasIA_Paper_v2.5_2026.pdf)
 
 ---
 
