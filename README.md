@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This repository contains the working paper and supplementary materials for the **CasIA (Cesar Adah Sophia IA)** framework — a structural solution to the monolithic self-validation problem in Large Language Models.
+This repository contains the working paper and supplementary materials for the **CasIA (Cascaded Information Architecture IA)** framework — a structural solution to the monolithic self-validation problem in Large Language Models.
 
 **Author:** César Lacruz  
 **Latest version:** v12 (March 2026)  
