@@ -155,7 +155,7 @@ CasIA v3.7 is the product of six rounds of adversarial peer review across five A
 ## Contact
 
 César Lacruz — Independent Researcher, Strategic Systems Architect  
-For collaboration on Phase 0 execution, adversarial review, or integration into existing safety evaluation frameworks: [add contact method]
+For collaboration on Phase 0 execution, adversarial review, or integration into existing safety evaluation frameworks: [(https://www.linkedin.com/in/cesarlacruzalbora/)]
 
 ---
 
